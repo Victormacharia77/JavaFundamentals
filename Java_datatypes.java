@@ -1,4 +1,4 @@
-public class Javadatatypes{
+public class Java_datatypes{
     public static void main(String[] args){
 //primitive data types 
 // 1.byte - small whole numbers from -128 to 127 

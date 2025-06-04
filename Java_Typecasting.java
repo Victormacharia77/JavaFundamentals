@@ -1,4 +1,4 @@
-public class JavaTypecasting {
+public class Java_Typecasting {
     public static void main(String[] args){
      //type casting refers to converting one data type to another 
 

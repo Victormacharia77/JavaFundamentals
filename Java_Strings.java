@@ -1,4 +1,4 @@
-public class JavaStrings {
+public class Java_Strings {
     public static void main(String[] args) {
 
         String myString = new String("keep on coding");
